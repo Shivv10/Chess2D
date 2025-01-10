@@ -1,4 +1,4 @@
-### Chess2D
+# Chess2D
 This is a basic 2 player chess game that has all the basic features and rules of the game of Chess.
 
 In this Java-based 2D chess game implementation, *object-oriented programming* principles are utilized to structure the codebase, incorporating graphical user interface elements for rendering the chessboard and pieces. The game consists of two primary classes:
@@ -14,7 +14,7 @@ Also there are other classes:
 
 Move Class: This class represents a move made by a player. It encapsulates information about the old and new positions of a piece, as well as details about any captured piece during the move.
 
-# Sample Images
+### Sample Images
 ![](./img/Chess%201.png)
 ![](./img/Chess%202.png)
 
